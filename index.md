@@ -1,14 +1,6 @@
-About
-I live in Dubai and work in the product team at Paystack (a payments infrastructure company building payments for Africa) on the Issuing and Corporate Cards products.
+# About
 
-Most of my time is spent in Finance and Technology.
+I live in Dubai and work in the product team at [Paystack](https://paystack.com) (a payments infrastructure company building payments for Africa), on the Issuing and Corporate Cards products.
 
-My goal is to:
-
-Build and support world-class Products and Businesses.
-Maximize positive impact
-Discover truth
-Have fun
-Share what I learn
-
+My goals is to build and support world-class products and businesses.
 
